@@ -29,7 +29,7 @@
     <a href="https://github.com/slymackjr/E-commerce-Home-Page-Project-Test-1"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/slymackjr/E-commerce-Home-Page-Project-Test-1">View Demo</a>
+    <a href="https://slymackjr.github.io/E-commerce-Home-Page-Project-Test-1/">View Demo</a>
     ·
     <a href="https://github.com/slymackjr/E-commerce-Home-Page-Project-Test-1/issues">Report Bug</a>
     ·
