@@ -1,4 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<!-- Improved compatibility of back-to-top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
 
@@ -24,7 +24,7 @@
   <h3 align="center">E-Commerce Home Page Porject Test 1</h3>
 
   <p align="center">
-    An awesome site to get the imformation of various trending projects and up to date.
+    An awesome site to get information on various trending projects and up-to-date.
     <br />
     <a href="https://github.com/slymackjr/E-commerce-Home-Page-Project-Test-1"><strong>Explore the docs »</strong></a>
     <br />
@@ -72,7 +72,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Single Page E-commerce site, for advertizing up to date trending product with simple design and few categories and choices to choose.
+The single Page E-commerce site, for advertising up-to-date trending products with a simple design and few categories and choices to choose from.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,7 +94,7 @@ Single Page E-commerce site, for advertizing up to date trending product with si
 This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running, follow these simple steps.
 ### Prerequisites
 
-* visual studio code or any other editor is fine.
+* Visual Studio code or any other editor is fine.
 
 ### Installation
 
@@ -108,7 +108,7 @@ This is an example of how you may give instructions on setting up your project l
 
 ## Usage
 
-The Single page E-commerce site is mainly aimed for show casing and advertizing trends inform of new, simple as that.
+The Single-page E-commerce site is mainly aimed at showcasing and advertising trends inform of new, simple as that.
 
 <div style="overflow-x: auto; white-space: nowrap;">
   <img src="screenshots/image1.png" alt="Image 1" style="display: inline-block; max-width: 100%;">
@@ -165,7 +165,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Jofrey Nyamasheki - [@your_twitter](https://twitter.com/your_username) 
+Jofrey Nyamasheki - [https://twitter.com/slymackjr](https://x.com/slymack_w?t=naiyIend2MU_qg-Tm4jQgw&s=09)
 Project Link: [https://github.com/slymackjr/E-commerce-Home-Page-Project-Test-1](https://github.com/slymackjr/E-commerce-Home-Page-Project-Test-1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -175,7 +175,7 @@ Project Link: [https://github.com/slymackjr/E-commerce-Home-Page-Project-Test-1]
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-I would like to thanks these wonder full tools that enable me to make it all happen.
+I would like to thank these wonderful tools that enabled me to make it all happen.
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
@@ -202,7 +202,7 @@ I would like to thanks these wonder full tools that enable me to make it all hap
 [license-shield]: https://img.shields.io/github/license/slymackjr/E-commerce-Home-Page-Project-Test-1.svg?style=for-the-badge
 [license-url]: https://github.com/slymackjr/E-commerce-Home-Page-Project-Test-1/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/in/jofrey-nyamasheki-9bb8781ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 [product-screenshot]: screenshots/image1.png
 [Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 [Laravel-url]: https://laravel.com
